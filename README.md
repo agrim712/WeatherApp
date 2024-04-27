@@ -4,11 +4,11 @@
 Explore real-time weather with this web app using OpenWeatherMap API. Get current weather by location, search cities, and grant location access. Built with HTML, CSS, JavaScript.
 
 ## Features
-1.View current weather conditions for the user's location
-2. Search for weather information by city name
-3. Grant location access to retrieve weather data based on user's coordinates
-4. Display weather details including temperature, weather description, wind speed, humidity, and cloudiness
-5. Handle errors gracefully when city name is incorrect or when there are issues with fetching weather data
+1.View current weather conditions for the user's location.
+2. Search for weather information by city name.
+3. Grant location access to retrieve weather data based on user's coordinates.
+4. Display weather details including temperature, weather description, wind speed, humidity, and cloudiness.
+5. Handle errors gracefully when city name is incorrect or when there are issues with fetching weather data.
 
 ## Technologies Used
 1. HTML
